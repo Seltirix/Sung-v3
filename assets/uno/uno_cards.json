@@ -1,0 +1,284 @@
+{
+    "blue": [
+        {
+            "color": "blue",
+            "value": 0,
+            "link": "https://cdn.discordapp.com/emojis/837412388659003503.png?v=1"
+        },
+        {
+            "color": "blue",
+            "value": 1,
+            "link": "https://cdn.discordapp.com/emojis/837412882009686026.png?v=1"
+        },
+        {
+            "color": "blue",
+            "value": 2,
+            "link": "https://cdn.discordapp.com/emojis/837728191534858270.png?v=1"
+        },
+        {
+            "color": "blue",
+            "value": 3,
+            "link": "https://cdn.discordapp.com/emojis/837728285596057661.png?v=1"
+        },
+        {
+            "color": "blue",
+            "value": 4,
+            "link": "https://cdn.discordapp.com/emojis/837728356690296833.png?v=1"
+        },
+        {
+            "color": "blue",
+            "value": 5,
+            "link": "https://cdn.discordapp.com/emojis/837728439666606150.png?v=1"
+        },
+        {
+            "color": "blue",
+            "value": 6,
+            "link": "https://cdn.discordapp.com/emojis/837728534151692299.png?v=1"
+        },
+        {
+            "color": "blue",
+            "value": 7,
+            "link": "https://cdn.discordapp.com/emojis/837728621006684171.png?v=1"
+        },
+        {
+            "color": "blue",
+            "value": 8,
+            "link": "https://cdn.discordapp.com/emojis/837728714082746379.png?v=1"
+        },
+        {
+            "color": "blue",
+            "value": 9,
+            "link": "https://cdn.discordapp.com/emojis/837728794931757067.png?v=1"
+        },
+        {
+            "color": "blue",
+            "value": "Skip",
+            "link": "https://cdn.discordapp.com/emojis/837728983097016350.png?v=1"
+        },
+        {
+            "color": "blue",
+            "value": "Changement de sens",
+            "link": "https://cdn.discordapp.com/emojis/837729153917911060.png?v=1"
+        },
+        {
+            "color": "blue",
+            "value": "Plus 2",
+            "link": "https://cdn.discordapp.com/emojis/837729282763391047.png?v=1"
+        }
+    ],
+    "green": [
+        {
+            "color": "green",
+            "value": 0,
+            "link": "https://cdn.discordapp.com/emojis/837729412468179004.png?v=1"
+        },
+        {
+            "color": "green",
+            "value": 1,
+            "link": "https://cdn.discordapp.com/emojis/837729517770506274.png?v=1"
+        },
+        {
+            "color": "green",
+            "value": 2,
+            "link": "https://cdn.discordapp.com/emojis/837729622342369280.png?v=1"
+        },
+        {
+            "color": "green",
+            "value": 3,
+            "link": "https://cdn.discordapp.com/emojis/837729720161402931.png?v=1"
+        },
+        {
+            "color": "green",
+            "value": 4,
+            "link": "https://cdn.discordapp.com/emojis/837729877436137532.png?v=1"
+        },
+        {
+            "color": "green",
+            "value": 5,
+            "link": "https://cdn.discordapp.com/emojis/837729976639684708.png?v=1"
+        },
+        {
+            "color": "green",
+            "value": 6,
+            "link": "https://cdn.discordapp.com/emojis/837730035309871184.png?v=1"
+        },
+        {
+            "color": "green",
+            "value": 7,
+            "link": "https://cdn.discordapp.com/emojis/837730086933233724.png?v=1"
+        },
+        {
+            "color": "green",
+            "value": 8,
+            "link": "https://cdn.discordapp.com/emojis/837730181615058965.png?v=1"
+        },
+        {
+            "color": "green",
+            "value": 9,
+            "link": "https://cdn.discordapp.com/emojis/837730239278350376.png?v=1"
+        },
+        {
+            "color": "green",
+            "value": "Skip",
+            "link": "https://cdn.discordapp.com/emojis/837730339417489428.png?v=1"
+        },
+        {
+            "color": "green",
+            "value": "Changement de sens",
+            "link": "https://cdn.discordapp.com/emojis/837730500524769322.png?v=1"
+        },
+        {
+            "color": "green",
+            "value": "Plus 2",
+            "link": "https://cdn.discordapp.com/emojis/837730587661697075.png?v=1"
+        }
+    ],
+    "red": [
+        {
+            "color": "red",
+            "value": 0,
+            "link": "https://cdn.discordapp.com/emojis/837731313377214484.png?v=1"
+        },
+        {
+            "color": "red",
+            "value": 1,
+            "link": "https://cdn.discordapp.com/emojis/837731396692475955.png?v=1"
+        },
+        {
+            "color": "red",
+            "value": 2,
+            "link": "https://cdn.discordapp.com/emojis/837731459409379408.png?v=1"
+        },
+        {
+            "color": "red",
+            "value": 3,
+            "link": "https://cdn.discordapp.com/emojis/837731514112409651.png?v=1"
+        },
+        {
+            "color": "red",
+            "value": 4,
+            "link": "https://cdn.discordapp.com/emojis/837731570282397756.png?v=1"
+        },
+        {
+            "color": "red",
+            "value": 5,
+            "link": "https://cdn.discordapp.com/emojis/837731617300676669.png?v=1"
+        },
+        {
+            "color": "red",
+            "value": 6,
+            "link": "https://cdn.discordapp.com/emojis/837731684991631420.png?v=1"
+        },
+        {
+            "color": "red",
+            "value": 7,
+            "link": "https://cdn.discordapp.com/emojis/837731749496750151.png?v=1"
+        },
+        {
+            "color": "red",
+            "value": 8,
+            "link": "https://cdn.discordapp.com/emojis/837731819880579092.png?v=1"
+        },
+        {
+            "color": "red",
+            "value": 9,
+            "link": "https://cdn.discordapp.com/emojis/837731877610979369.png?v=1"
+        },
+        {
+            "color": "red",
+            "value": "Skip",
+            "link": "https://cdn.discordapp.com/emojis/837732039930937374.png?v=1"
+        },
+        {
+            "color": "red",
+            "value": "Changement de sens",
+            "link": "https://cdn.discordapp.com/emojis/837732185238012004.png?v=1"
+        },
+        {
+            "color": "red",
+            "value": "Plus 2",
+            "link": "https://cdn.discordapp.com/emojis/837732311147610143.png?v=1"
+        }
+    ],
+    "yellow": [
+        {
+            "color": "yellow",
+            "value": 0,
+            "link": "https://cdn.discordapp.com/emojis/837732656656810004.png?v=1"
+        },
+        {
+            "color": "yellow",
+            "value": 1,
+            "link": "https://cdn.discordapp.com/emojis/837732698331807774.png?v=1"
+        },
+        {
+            "color": "yellow",
+            "value": 2,
+            "link": "https://cdn.discordapp.com/emojis/837732776975269918.png?v=1"
+        },
+        {
+            "color": "yellow",
+            "value": 3,
+            "link": "https://cdn.discordapp.com/emojis/837732863658688524.png?v=1"
+        },
+        {
+            "color": "yellow",
+            "value": 4,
+            "link": "https://cdn.discordapp.com/emojis/837733133457686588.png?v=1"
+        },
+        {
+            "color": "yellow",
+            "value": 5,
+            "link": "https://cdn.discordapp.com/emojis/837733199320055899.png?v=1"
+        },
+        {
+            "color": "yellow",
+            "value": 6,
+            "link": "https://cdn.discordapp.com/emojis/837733256853717012.png?v=1"
+        },
+        {
+            "color": "yellow",
+            "value": 7,
+            "link": "https://cdn.discordapp.com/emojis/837733351003127858.png?v=1"
+        },
+        {
+            "color": "yellow",
+            "value": 8,
+            "link": "https://cdn.discordapp.com/emojis/837733418518970430.png?v=1"
+        },
+        {
+            "color": "yellow",
+            "value": 9,
+            "link": "https://cdn.discordapp.com/emojis/837733501749952642.png?v=1"
+        },
+        {
+            "color": "yellow",
+            "value": "Skip",
+            "link": "https://cdn.discordapp.com/emojis/837733760354877481.png?v=1"
+        },
+        {
+            "color": "yellow",
+            "value": "Changement de sens",
+            "link": "https://cdn.discordapp.com/emojis/837733887374917682.png?v=1"
+        },
+        {
+            "color": "yellow",
+            "value": "Plus 2",
+            "link": "https://cdn.discordapp.com/emojis/837733970736840774.png?v=1"
+        }
+    ],
+    "wild": [
+        {
+            "color": "wild",
+            "value": "Changement de couleur",
+            "link": "https://cdn.discordapp.com/emojis/837734164329529404.png?v=1",
+            "wild": true
+        },
+        {
+            "color": "wild",
+            "value": "Plus 4",
+            "link": "https://cdn.discordapp.com/emojis/836287541321138187.png?v=1",
+            "wild": true
+        }
+    ]
+}
